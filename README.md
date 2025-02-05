@@ -1,4 +1,4 @@
-# Healthcare Analsis and Dashboard, Looker
+# Healthcare Analysis and Dashboard, Looker
 ## Dataset from Prasad Patil, Kaggle
 ### Dashboard Built by Brandon Lyons
 
